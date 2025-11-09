@@ -1,4 +1,4 @@
-- [ ] Setup Shadcn UI
+- [v] Setup Shadcn UI
 - [ ] Custom Shadcn Themes
 - [ ] Create Hero Section
 - [ ] Create About Section

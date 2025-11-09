@@ -1,0 +1,8 @@
+- [ ] Setup Shadcn UI
+- [ ] Custom Shadcn Themes
+- [ ] Create Hero Section
+- [ ] Create About Section
+- [ ] Create Services Section
+- [ ] Create Portfolio Section
+- [ ] Create Contact Section
+- [ ] Implement Responsive Design
